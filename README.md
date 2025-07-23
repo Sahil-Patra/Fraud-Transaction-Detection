@@ -37,7 +37,7 @@ This project showcases my ability to work with temporal data, handle real-world 
 ---
 
 ## Tools Used 
-- **Google Colab Notebook**: 
+- **Google Colab Notebook**: used because it have free access to computing resources.
 - **pandas**: used for data loading, exploration, and manipulation.
 - **scikit-learn**: used for for preprocessing, splitting data, and evaluation metrics.
 - **TensorFlow**: used for building, compiling, training, and evaluating your deep learning classification model.
