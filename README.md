@@ -6,6 +6,7 @@
 - [About the Project](#About-the-Project)
 - [Tools Used](#Tools-Used)
 - [Data Source](#Data-Source)
+- [Process Followed](#Process-Followed)
 - [Executive Summary](Executive-Summary)
 - [Technical Process](#Technical-Process)
 - [Future Scope](#Future-Scope)
@@ -57,7 +58,7 @@ This dataset is a simulated dataset of original and fraudulent transactions, and
 
 ---
 
-## Process
+## Process Followed
 - Datetime Conversion: Extracted hour, day, and weekday from the TX_DATETIME field.
 
 - Label Encoding: Transformed CUSTOMER_ID and TERMINAL_ID into numerical values.
