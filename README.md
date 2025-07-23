@@ -69,6 +69,9 @@ This dataset is a simulated dataset of original and fraudulent transactions, and
 - Evaluation: Model evaluated using Accuracy and AUC (Area Under the ROC Curve) metrics.
 
 ---
+## Executive Summary
+
+The fraud transaction detection model successfully demonstrates how machine learning can play a pivotal role in identifying potentially fraudulent activities in financial systems. By leveraging key features such as transaction amount, terminal usage patterns, and customer behavior, the model was trained to distinguish between normal and suspicious transactions with high accuracy.
 
 ## Technical Analysis
 
