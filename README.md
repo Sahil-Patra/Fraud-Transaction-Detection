@@ -7,7 +7,7 @@
 - [Tools Used](#Tools-Used)
 - [Data Source](#Data-Source)
 - [Executive Summary](Executive-Summary)
-- [Technical Analysis](#Technical-Analysis)
+- [Technical Process](#Technical-Process)
 - [Future Scope](#Future-Scope)
 - [Contact](#contact)
 
@@ -73,7 +73,7 @@ This dataset is a simulated dataset of original and fraudulent transactions, and
 
 The fraud transaction detection model successfully demonstrates how machine learning can play a pivotal role in identifying potentially fraudulent activities in financial systems. By leveraging key features such as transaction amount, terminal usage patterns, and customer behavior, the model was trained to distinguish between normal and suspicious transactions with high accuracy.
 
-## Technical Analysis
+## Technical Process
 
 **Importing all the necessary library**
 ```python
