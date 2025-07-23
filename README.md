@@ -48,12 +48,12 @@ This project showcases my ability to work with temporal data, handle real-world 
 
 ## Data Source
 This dataset is a simulated dataset of original and fraudulent transactions, and only has the main core details of a transaction. 
- ● TRANSACTION_ID: A unique identifier for the transaction. 
- ● TX_DATETIME: Date and time at which the transaction occurs. 
- ● CUSTOMER_ID:Theidentifier for the customer. Each customer has a unique identifier. 
- ● TERMINAL_ID: The identifier for the merchant (or more precisely the terminal). Each terminal has a unique identifier. 
- ● TX_AMOUNT:Theamount of the transaction. 
- ● TX_FRAUD:Abinary variable, with the value 0 for a legitimate transaction, 1 for a fraudulent transaction. 
+ -  TRANSACTION_ID: A unique identifier for the transaction. 
+ -  TX_DATETIME: Date and time at which the transaction occurs. 
+ -  CUSTOMER_ID:Theidentifier for the customer. Each customer has a unique identifier. 
+ -  TERMINAL_ID: The identifier for the merchant (or more precisely the terminal). Each terminal has a unique identifier. 
+ -  TX_AMOUNT:Theamount of the transaction. 
+ -  TX_FRAUD:Abinary variable, with the value 0 for a legitimate transaction, 1 for a fraudulent transaction. 
 
 ---
 
